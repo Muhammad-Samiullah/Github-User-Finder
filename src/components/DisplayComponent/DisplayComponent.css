@@ -1,0 +1,31 @@
+.data_element {
+    width: 350px;
+
+}
+.data_element > h6 {
+    text-align: center;
+    
+}
+.picture_div > img {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+}
+.bio_heading {
+    margin-right: 7px;
+}
+#name {
+    font-weight: bold;
+    margin: 15px 0px;
+    font-size: 30px;
+}
+#bio{
+    margin-top: 10px;
+    font-size: 15px;
+}
+.data-div {
+    margin-top: 30px;
+}
+.data_element {
+    margin-top: 20px;
+}
